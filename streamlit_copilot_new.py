@@ -36,7 +36,7 @@ with col2:
     st.title("    :green[  Let's get started]")
 
 with col3:
-    #st.write(' ')
+    st.write('')
 row1 = st.columns(3)
 #row2 = st.columns(3)
 
