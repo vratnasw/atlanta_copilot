@@ -25,13 +25,13 @@ col1_n,col2_n = st.columns(2)
 with col1_n:
     st.image('igland.svg',width=125)
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3 = st.columns([1,1,1])
 
 with col1:
     st.write('')
 
 with col2:
-    st.image("atlanta_logo.jpg",width=350)
+    st.image("atlanta_logo.jpg",width=300)
     #st.write(' ')
     st.title("    :green[  Let's get started]")
 
