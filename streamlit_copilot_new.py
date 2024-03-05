@@ -28,16 +28,16 @@ with col1_n:
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.write(' ')
+    #st.write(' ')
 
 with col2:
     
     st.image("atlanta_logo.jpg",width=350)
-    st.write(' ')
+    #st.write(' ')
     st.title("    :green[  Let's get started]")
 
 with col3:
-    st.write(' ')
+    #st.write(' ')
 row1 = st.columns(3)
 #row2 = st.columns(3)
 
