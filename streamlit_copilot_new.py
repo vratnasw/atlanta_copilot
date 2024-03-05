@@ -28,7 +28,7 @@ with col1_n:
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    #st.write(' ')
+    st.write('')
 
 with col2:
     st.image("atlanta_logo.jpg",width=350)
