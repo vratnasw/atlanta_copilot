@@ -28,7 +28,7 @@
 * Proper installation and calibration of control systems and thermostats: [Properly Installed](https://codes.iccsafe.org/content/IMC2018P4/chapter-9-specific-appliances-fireplaces-and-solid-fuel-burning-equipment)
 * Integration with building management systems (if applicable): [Integrated](https://codes.iccsafe.org/content/IMC2018P4/chapter-9-specific-appliances-fireplaces-and-solid-fuel-burning-equipment)
 * Pass/Fail: [Pass](https://codes.iccsafe.org/content/IMC2018P4/chapter-9-specific-appliances-fireplaces-and-solid-fuel-burning-equipment)
-8)**Fire and Smoke Control**
+8) **Fire and Smoke Control**
 * Compliance with IBC for fire and smoke dampers in ductwork: [Compliant](https://codes.iccsafe.org/content/IMC2018P4/chapter-9-specific-appliances-fireplaces-and-solid-fuel-burning-equipment)
 * Integration of HVAC system with fire alarm and suppression systems: [Integrated](https://codes.iccsafe.org/content/IMC2018P4/chapter-9-specific-appliances-fireplaces-and-solid-fuel-burning-equipment)
 * Pass/Fail: [Pass](https://codes.iccsafe.org/content/IMC2018P4/chapter-9-specific-appliances-fireplaces-and-solid-fuel-burning-equipment)
@@ -36,7 +36,7 @@
 * Adequate measures for sound and vibration control in HVAC design: [Adequate](https://codes.iccsafe.org/content/IMC2018P4/chapter-12-hydronic-piping)
 * Use of noise-reducing equipment and installation techniques: [Used](https://codes.iccsafe.org/content/IMC2018P4/chapter-12-hydronic-piping)
 * Pass/Fail: [Pass/Fail](https://codes.iccsafe.org/content/IMC2018P4/chapter-12-hydronic-piping)
-10. **Testing and Commissioning**
+10) **Testing and Commissioning**
 * Performance of required system testing and commissioning: [Performed](https://codes.iccsafe.org/content/IMC2018P4/chapter-3-general-regulations)
 * Documentation of testing and commissioning results: [Documented](https://codes.iccsafe.org/content/IMC2018P4/chapter-3-general-regulations)
 * Pass/Fail: [Pass](https://codes.iccsafe.org/content/IMC2018P4/chapter-3-general-regulations)
