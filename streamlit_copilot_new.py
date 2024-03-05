@@ -31,7 +31,6 @@ with col1:
     #st.write(' ')
 
 with col2:
-    
     st.image("atlanta_logo.jpg",width=350)
     #st.write(' ')
     st.title("    :green[  Let's get started]")
