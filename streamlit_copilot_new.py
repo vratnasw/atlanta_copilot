@@ -133,7 +133,7 @@ with col21:
                 st.markdown('Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.007MILORE)')
                 st.markdown(':gray[Min side setback - 7ft]')
                 st.markdown(':gray[Side Setback - 6 ft]')
-                st.markdown(':gray[Pass/Fail - [**Fail**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.007MILORE)]')
+                st.markdown(':gray[Pass/Fail - [**Fail**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.008MIYARE)]')
                 st.markdown('Maximum Height - 35 ft')
                 st.markdown('Height - 25 ft')
                 st.markdown('Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.009MAHE)')
