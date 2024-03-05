@@ -271,7 +271,7 @@ with col_submit:
     submit = st.button('💡')  
 
 if submit:
-        text = st.text_area('Enter Notes:', height=100) 
+        text = st.text_area('Enter Notes:',text, height=100) 
         st.download_button(label="Download data as a text", data=text, file_name='output.txt', mime = 'txt') 
 
         #with st.spinner(text="This may take a moment..."):
