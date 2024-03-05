@@ -25,20 +25,15 @@ col1_n,col2_n = st.columns(2)
 with col1_n:
     st.image('igland.svg',width=125)
 
-col1, col2, col3 = st.columns([1,1,1])
+_, col2, _ = st.columns([1,1,1])
 
-with col1:
-    st.write('')
+
 
 with col2:
     st.image("atlanta_logo.jpg",width=300)
-    #st.write(' ')
     st.title("    :green[  Let's get started]")
 
-with col3:
-    st.write('')
-row1 = st.columns(3)
-#row2 = st.columns(3)
+
 
 buttons = ['Parcel Subdivision', 'Check Zoning Parameters', 'Analyze Plumbing','Analyze Electrical','Analyze Mechanical','Analyze Structural']
 col11, col21, col31 = st.columns(3)
