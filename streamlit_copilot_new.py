@@ -39,16 +39,15 @@ buttons = ['Parcel Subdivision', 'Check Zoning Parameters', 'Analyze Plumbing','
 col11, col21, col31 = st.columns(3)
 with col11:
     if st.button('Parcel Subdivision', key=1, use_container_width=True):
-                st.markdown(' Zoning classification - [R5](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE) ')
-                st.markdown(' Structure Type - **Two Family Dwelling** ')
-                st.markdown(' Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE)')
+                st.markdown(' :gray[Zoning classification - [R5](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE) ]')
+                st.markdown(' :gray[Structure Type - **Two Family Dwelling**] ')
+                st.markdown(' :gray[Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE)]')
                 st.markdown(' Minimum frontage - 70 ft')
                 st.markdown(' Lot frontage - 74 ft')
                 st.markdown(' Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE_S16-07.007MILORE)')
-                st.markdown(' Minimum lot size- 9000 sqft')
-                st.markdown(' Lot size - 9500 sqft')
-                st.markdown(' Lot size - 9500 sqft')
-                st.markdown(' Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE_S16-07.008MIYARE)')
+                st.markdown(' :gray[Minimum lot size- 9000 sqft]')
+                st.markdown(' :gray[Lot size - 9500 sqft]')
+                st.markdown(' :gray[Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE_S16-07.008MIYARE)]')
                 st.download_button(label="Export Parcel Report",
                                data =  parcel_file,
                                file_name="parcel_report.pdf",
@@ -134,7 +133,7 @@ with col21:
                 st.markdown('Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.007MILORE)')
                 st.markdown(':gray[Min side setback - 7ft]')
                 st.markdown(':gray[Side Setback - 6 ft]')
-                st.markdown(':gray[Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.007MILORE)]')
+                st.markdown(':gray[Pass/Fail - [**Fail**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.007MILORE)]')
                 st.markdown('Maximum Height - 35 ft')
                 st.markdown('Height - 25 ft')
                 st.markdown('Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE_S16-06.009MAHE)')
