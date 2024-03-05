@@ -39,9 +39,9 @@ buttons = ['Parcel Subdivision', 'Check Zoning Parameters', 'Analyze Plumbing','
 col11, col21, col31 = st.columns(3)
 with col11:
     if st.button('Parcel Subdivision', key=1, use_container_width=True):
-                st.markdown(':gray[ Zoning classification - [R5]](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE) ')
-                st.markdown(' :gray[Structure Type - **Two Family Dwelling**] ')
-                st.markdown(' :gray[Pass/Fail - [**Pass**]](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE)')
+                st.markdown(' Zoning classification - [R5](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE) ')
+                st.markdown(' Structure Type - **Two Family Dwelling** ')
+                st.markdown(' Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE)')
                 st.markdown(' Minimum frontage - 70 ft')
                 st.markdown(' Lot frontage - 74 ft')
                 st.markdown(' Pass/Fail - [**Pass**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH7TMIREDIRE_S16-07.007MILORE)')
@@ -115,7 +115,7 @@ with col21:
     if st.button('Check Zoning Parameters', key=3, use_container_width=True):
         test = 1
         if test: 
-                st.markdown(':gray[Zoning classification - [**R4**]](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE)')
+                st.markdown(':gray[Zoning classification - [**R4**](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE)]')
                 st.markdown(':gray[Structure Type - [**Pass**]](https://library.municode.com/ga/atlanta/codes/code_of_ordinances?nodeId=PTIIICOORANDECO_PT16ZO_CH6SIMIREDIRE)')
                 st.markdown(':gray[Pass/Fail - **Pass**] \n ')
                 st.markdown('Accessory Structure Type - **N/A** ')
